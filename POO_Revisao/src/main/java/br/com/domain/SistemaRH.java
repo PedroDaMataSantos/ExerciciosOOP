@@ -3,10 +3,11 @@ package br.com.domain;
     public class SistemaRH {
 
     //Criando Funcionrios-Poliformismo
+    public static void main(String[] args) {
 
     Funcionario[] funcionario = new Funcionario[3];
 
-    public SistemaRH() {
+
         Desenvolvedor dev = new Desenvolvedor(
         "Ana",
         "DEV001",
