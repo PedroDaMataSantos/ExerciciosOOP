@@ -7,7 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="POO_Revisao" />
-        <module name="Java" />
+        <module name="NarutoPOO" />
       </profile>
     </annotationProcessing>
   </component>
