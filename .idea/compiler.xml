@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="POO_Revisao" />
         <module name="NarutoPOO" />
+        <module name="Aula02" />
       </profile>
     </annotationProcessing>
   </component>
