@@ -9,10 +9,19 @@ public class Carro extends Veiculo {
         this.numeroDePortas = numeroDePortas;
         this.arCondicionado = arCondicionado;
     }
+
+
     @Override
     public void exibirInfo() {
         super.exibirInfo();
         System.out.println("Número de portas: " + numeroDePortas);
         System.out.println("Ar condicionado: " + (arCondicionado ? "Sim" : "Não"));
+
+    }
+
+    public void abrirPortamala() {
+        System.out.println("Porta mala abrindo");
+
     }
 }
+

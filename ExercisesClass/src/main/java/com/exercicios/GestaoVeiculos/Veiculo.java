@@ -15,12 +15,12 @@ public class Veiculo {
 
     public void acelerar(double incremento) {
             velocidade += incremento;
-        System.out.println(modelo + "acelerando para " + velocidade + " km/h");
+        System.out.println(modelo + " acelerando para " + velocidade + " km/h");
         }
 
         public void frear(double decremento) {
             velocidade -= decremento;
-            System.out.println(modelo + "freando para " + velocidade + " km/h");
+            System.out.println(modelo + " freando para " + velocidade + " km/h");
         }
 
     public void exibirInfo() {

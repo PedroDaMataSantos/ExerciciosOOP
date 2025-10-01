@@ -15,5 +15,7 @@ public class Moto extends Veiculo{
         System.out.println("Cilindradas: " + cilindradas);
         System.out.println("Partida elétrica: " + (partidaEletrica ? "Sim" : "Não"));
     }
+    public void empinar(){
+        System.out.println("Empinando a moto!"); }
 
 }
