@@ -1,4 +1,4 @@
-package com.exercicios.Ex01;
+package com.exercicios.Animais;
 
 //classe mãe
 
